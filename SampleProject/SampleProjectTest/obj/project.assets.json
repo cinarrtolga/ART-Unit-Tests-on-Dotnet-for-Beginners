@@ -9628,11 +9628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tolgacinar/Desktop/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/SampleProjectTest.csproj",
+      "projectUniqueName": "/Users/tolgacinar/Documents/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/SampleProjectTest.csproj",
       "projectName": "SampleProjectTest",
-      "projectPath": "/Users/tolgacinar/Desktop/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/SampleProjectTest.csproj",
+      "projectPath": "/Users/tolgacinar/Documents/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/SampleProjectTest.csproj",
       "packagesPath": "/Users/tolgacinar/.nuget/packages/",
-      "outputPath": "/Users/tolgacinar/Desktop/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/obj/",
+      "outputPath": "/Users/tolgacinar/Documents/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProjectTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tolgacinar/.nuget/NuGet/NuGet.Config"
@@ -9647,8 +9647,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/tolgacinar/Desktop/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProject/SampleProject.csproj": {
-              "projectPath": "/Users/tolgacinar/Desktop/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProject/SampleProject.csproj"
+            "/Users/tolgacinar/Documents/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProject/SampleProject.csproj": {
+              "projectPath": "/Users/tolgacinar/Documents/ART-Unit-Tests-on-Dotnet-for-Beginners/SampleProject/SampleProject/SampleProject.csproj"
             }
           }
         }
